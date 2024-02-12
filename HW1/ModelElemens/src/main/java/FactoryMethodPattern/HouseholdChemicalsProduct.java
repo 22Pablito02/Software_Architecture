@@ -22,3 +22,4 @@ public class HouseholdChemicalsProduct implements Product{
         return this.cost;
     }
 }
+

@@ -6,3 +6,4 @@ public class GenMilkProd implements GeneratorProduct{
         return new MilkProduct();
     }
 }
+

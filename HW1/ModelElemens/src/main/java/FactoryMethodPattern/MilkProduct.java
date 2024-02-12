@@ -24,3 +24,4 @@ public class MilkProduct implements Product{
         return this.cost;
     }
 }
+

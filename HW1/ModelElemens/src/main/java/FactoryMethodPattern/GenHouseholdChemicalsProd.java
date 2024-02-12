@@ -6,3 +6,4 @@ public class GenHouseholdChemicalsProd implements GeneratorProduct{
         return new HouseholdChemicalsProduct();
     }
 }
+
