@@ -10,3 +10,4 @@ public class Moto extends Vehicle{
         super(maxSpeed, "Moto");
     }
 }
+

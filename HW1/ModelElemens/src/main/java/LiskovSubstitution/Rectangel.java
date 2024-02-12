@@ -14,3 +14,4 @@ public class Rectangel extends QuadRangle{
         return height * width;
     }
 }
+

@@ -6,3 +6,4 @@ public class DiselEngin implements Engine{
         System.out.println("Запустили дизельный двигатель");
     }
 }
+

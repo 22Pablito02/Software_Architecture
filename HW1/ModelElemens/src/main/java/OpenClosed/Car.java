@@ -10,3 +10,4 @@ public class Car extends Vehicle{
         return super.maxSpeed * 2;
     }
 }
+

@@ -12,3 +12,4 @@ public class Square extends QuadRangle{
         return len * len;
     }
 }
+

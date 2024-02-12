@@ -11,3 +11,4 @@ public class MainOpenClosed {
         System.out.println(vehicle.type + " maxSpeed = " + vehicle.calculateAllowedSpeed());
     }
 }
+

@@ -11,3 +11,4 @@ public class CalculateSalary {
         return baseSalary * 1.5;
     }
 }
+
